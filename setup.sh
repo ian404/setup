@@ -3,6 +3,7 @@
 # for headless setup. 
 # added my comment
 
+
 # Install nvm: node-version manager
 # https://github.com/creationix/nvm
 sudo apt-get install -y git-core
